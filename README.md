@@ -23,6 +23,7 @@ Este proyecto sirve como base para una aplicación web o móvil de control de in
 
 El proyecto sigue una separación clara de responsabilidades:
 
+```
 src/
 ├── routes/ # Definición de endpoints
 ├── controllers/ # Manejo de request / response
@@ -31,6 +32,7 @@ src/
 ├── middlewares/ # Autenticación y validaciones
 ├── app.js
 └── server.js
+```
 
 
 ### 🔄 Flujo de una petición
