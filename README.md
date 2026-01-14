@@ -55,7 +55,7 @@ Los siguientes diagramas explican los principales flujos de la aplicación:
 ![Signup Flow](docs/signup-flow.png)
 
 ### 🧾 Inicio de Sesión de usuarios (Login)
-![Login Flow](docs/login-flow.png)
+![Login Flow](docs/Login-flow.png)
 
 ### 💸 Crear Transacciones
 ![Create Transaction Flow](docs/create-transaction-flow.png)
